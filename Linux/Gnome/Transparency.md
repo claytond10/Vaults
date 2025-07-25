@@ -1,4 +1,4 @@
-```
+```shell
 vi ~/.themes/<your-theme>/gnome-shell/gnome-shell.css
 ```
 

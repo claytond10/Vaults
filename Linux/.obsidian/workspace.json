@@ -77,8 +77,7 @@
               "title": "Configure git"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Configure git.md",
+                "file": "Shells/zsh/Oh-My-Posh.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Configure git"
+              "title": "Backlinks for Oh-My-Posh"
             }
           },
           {
@@ -234,8 +233,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d95924e5f696696",
+  "active": "267669c1ae9a64d7",
   "lastOpenFiles": [
+    "KVM/Linux File Sharing.md",
+    "Ubuntu/Cubic.md",
+    "Gnome/Transparency.md",
+    "Git/Configure git.md",
     "Alacritty/Set to Open With in Nautilaus.md",
     "Alacritty/Set as default.md",
     "Alacritty/Open with...",
@@ -243,20 +246,16 @@
     "Alacritty",
     "Alacritty.md",
     "Untitled.md",
-    "Git/Configure git.md",
     "Stow",
     "RHCE/Text Processing.md",
     "Git",
     "RHCE/Redirects.md",
     "RHCE/Help Commands.md",
     "RHCE/ACL (files).md",
-    "Ubuntu/Cubic.md",
     "RHCE",
     "Shells/zsh/Oh-My-Posh.md",
     "KVM/Windows File Sharing.md",
     "KVM/Networking.md",
-    "KVM/Linux File Sharing.md",
-    "Gnome/Transparency.md",
     "CasaOS/Install.md",
     "CasaOS/Update.md",
     "Arch/Pacman/Errors.md",
