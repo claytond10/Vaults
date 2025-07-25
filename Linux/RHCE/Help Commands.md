@@ -1,0 +1,3 @@
+- whatis command
+- command --help
+- man command
