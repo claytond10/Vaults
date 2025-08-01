@@ -5,3 +5,6 @@
 - [ ] Fix upstairs toilet
 - [ ] Fix upstairs shower
 - [ ] Replace downstairs toilet seat
+- [ ] Replace Microwave
+- [ ] Basement Flooring
+- [ ] Laundry Room Flooring
