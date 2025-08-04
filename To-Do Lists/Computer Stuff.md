@@ -1,0 +1,2 @@
+- [ ] Elgato Stream Deck
+- [ ] Fingerprint Reader

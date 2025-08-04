@@ -8,3 +8,6 @@
 - [ ] Replace Microwave
 - [ ] Basement Flooring
 - [ ] Laundry Room Flooring
+- [ ] Stair Railing
+- [ ] Install Google Thermostat
+- [ ] 
